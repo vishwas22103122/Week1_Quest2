@@ -25,3 +25,4 @@ int main() {
     int ans = average(arr);
     cout<<"The average of "<<n<<" numbers is: "<<ans/n;
 }
+//CalculTING Average
